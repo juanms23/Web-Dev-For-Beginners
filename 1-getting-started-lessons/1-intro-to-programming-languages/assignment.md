@@ -60,3 +60,29 @@ Consider exploring tools from these categories:
 | **Demonstrated understanding of how tools fit into development workflows** | **Showed some understanding of professional context** | **Focused only on tool features without workflow context** |
 
 > 💡 **Research Tip**: Look for tools mentioned in job postings for web developers, check popular developer surveys, or explore the dependencies used by successful open-source projects on GitHub!
+
+## Submission
+
+### Figma - Design Tool
+
+**Purpose:**  Figma is used by web developer to prototype and design UI/UX. It emphasizes real-time collaboration, allowing teams to work together. It offers design, prototyping, and developer handoff features in one platform.
+
+**Documentation:** <https://help.figma.com/hc/en-us/>
+
+**Workflow Integration:** Figma fits into the early stages of the development process, where web developers and designers create wireframes, mockups, and prototypes before implementation.
+
+### Vercel - Deployment Platform
+
+**Purpose:** Vercel is used by web developers to deploy and host web applications. It handles continuous deployment, allowing developers to push changes directly from their Git repositories. It handles servers, URLs, and infrastructure.
+
+**Documentation:** <https://vercel.com/docs/>
+
+**Workflow Integration:** Vercel fits into the later stages of the development process, where web developer are ready to deploy their applications to production and share with users.
+
+### Vite - Build Tool
+
+**Purpose:** Vite is used by web developers to bundle and optimize code for web projects. It offers fast development servers and efficient build processes, making it ideal for modern web development workflows. Vite offers features like hot module replacement (HMR) and support for various frontend frameworks.
+
+**Documentation:** <https://vitejs.dev/guide/>
+
+**Workflow Integration:** Vite is used during the development phase to speed up the build process and improve web developer productivity, allowing for faster iteration and testing of code changes.
