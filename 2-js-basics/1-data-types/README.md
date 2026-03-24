@@ -139,6 +139,7 @@ Creating and **declaring** a variable has the following syntax **[keyword] [name
 ### 🧠 **Variables Mastery Check: Getting Comfortable**
 
 **Let's see how you're feeling about variables:**
+
 - Can you explain the difference between declaring and assigning a variable?
 - What happens if you try to use a variable before you declare it?
 - When would you choose `let` over `const` for a variable?
@@ -177,6 +178,7 @@ const MY_VARIABLE = 123;
 ```
 
 **Here's what this code does:**
+
 - **Creates** a constant named `MY_VARIABLE` with the value 123
 - **Uses** uppercase naming convention for constants
 - **Prevents** any future changes to this value

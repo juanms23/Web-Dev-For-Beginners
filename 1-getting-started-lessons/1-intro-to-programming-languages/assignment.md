@@ -18,7 +18,7 @@ The web development ecosystem includes hundreds of specialized tools that help d
 Consider exploring tools from these categories:
 
 | Category | Examples | What They Do |
-|----------|----------|--------------|
+| ---------- | ---------- | -------------- |
 | **Build Tools** | Vite, Webpack, Parcel, esbuild | Bundle and optimize code for production with fast development servers |
 | **Testing Frameworks** | Vitest, Jest, Cypress, Playwright | Ensure code works correctly and catch bugs before deployment |
 | **Design Tools** | Figma, Adobe XD, Penpot | Create mockups, prototypes, and design systems collaboratively |
@@ -32,7 +32,8 @@ Consider exploring tools from these categories:
 ## Format Requirements
 
 **For each tool:**
-```
+
+```markdown
 ### [Tool Name] - [Category]
 
 **Purpose:** [2-3 sentences explaining why developers use this tool]
@@ -53,7 +54,7 @@ Consider exploring tools from these categories:
 ## Rubric
 
 | Excellent | Good | Needs Improvement |
-|-----------|------|-------------------|
+| ----------- | ------ | ------------------- |
 | **Clearly explained why developers use each tool and what problems it solves** | **Explained what the tool does but missed some context about its value** | **Listed tools but didn't explain their purpose or benefits** |
 | **Provided official documentation links for all tools** | **Provided mostly official links with 1-2 tutorial sites** | **Relied mainly on tutorial sites rather than official documentation** |
 | **Selected current, professionally-used tools from diverse categories** | **Selected good tools but limited variety in categories** | **Selected outdated tools or only from one category** |
