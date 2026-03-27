@@ -1,17 +1,4 @@
-// Test your functions here
-sayHello();
-introduceYourself("Sarah");
-greetPerson("Alex");
-greetPerson("Maria", "Hi");
-
-const sum = addNumbers(5, 3);
-console.log(`The sum is: ${sum}`);
-
-const fullName = createFullName("John", "Doe");
-console.log(`Full name: ${fullName}`);
-
-const tip = calculateTip(50);
-console.log(`Tip for $50 bill: $${tip}`);# Fun with Functions
+# Fun with Functions
 
 ## Instructions
 
